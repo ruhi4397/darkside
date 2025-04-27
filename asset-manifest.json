@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/darkside/static/css/main.f855e6bc.css",
+    "main.js": "/darkside/static/js/main.a340c597.js",
+    "static/js/453.aa932470.chunk.js": "/darkside/static/js/453.aa932470.chunk.js",
+    "index.html": "/darkside/index.html",
+    "main.f855e6bc.css.map": "/darkside/static/css/main.f855e6bc.css.map",
+    "main.a340c597.js.map": "/darkside/static/js/main.a340c597.js.map",
+    "453.aa932470.chunk.js.map": "/darkside/static/js/453.aa932470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a340c597.js"
+  ]
+}
